@@ -1,0 +1,66 @@
+Hola David!
+
+Te paso la entrega tecnica de los proyectos de ARTES BUHO MANAGEMENT.
+
+╔══════════════════════════════════════════════╗
+║ RESUMEN RAPIDO                               ║
+╠══════════════════════════════════════════════╣
+║ - 41 proyectos organizados por categorias    ║
+║ - GitHub: github.com/artes-buho-management   ║
+║ - Repos PUBLICOS (link compartible)          ║
+║ - PLAZO: hasta el 5 de junio de 2026         ║
+║   Despues se eliminan los repos.             ║
+╚══════════════════════════════════════════════╝
+
+QUE TIENES QUE HACER:
+
+1. CLONAR todo lo que necesites de
+   https://github.com/artes-buho-management
+   antes del 5 de junio.
+
+2. LEER en este orden los documentos:
+   https://github.com/artes-buho-management/00_DOCUMENTACION
+
+   - 00_LEEME_PRIMERO.md
+   - 01_INFORME_TECNICO_DENSO.md
+   - 02_IMPORTAR-A-CLAUDE.md
+   - 03_CREDENCIALES_A_GENERAR.md
+   - 04_DEPLOYS_ACTIVOS.md
+
+3. GENERAR las credenciales que necesites
+   (todas las claves API han sido ELIMINADAS
+   por seguridad - hay que crear nuevas).
+
+4. MIGRAR los 3 deploys activos antes del
+   5 de junio o se caeran:
+   - APP_ARTES-BUHO
+   - APP_ARTES-BUHO_BELLA-BESTIA
+   - ARTES-BUHO_RAMON (bot Telegram)
+
+PROYECTOS MAS CRITICOS:
+
+* ARTES-BUHO_API-GOOGLE - El HUB central.
+  Casi todas las apps Node lo usan.
+
+* ARTES-BUHO_RAMON - Asistente IA autonomo
+  (Gemini + Claude + Ollama). Lee Gmail,
+  Calendar, Drive, etc.
+
+* APP_ARTES-BUHO_BELLA-BESTIA - App de
+  contabilidad del cliente principal.
+
+CONTACTO PARA DUDAS:
+
+  Ruben Coton
+  manager@rubencoton.com
+  +34 613 00 93 36
+
+Si tienes cualquier duda durante la
+transicion, escribime sin problema.
+
+Animo con todo. La documentacion esta
+muy detallada, deberia ser suficiente
+para arrancar.
+
+Un abrazo!
+Ruben Coton

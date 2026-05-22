@@ -57,7 +57,7 @@ Pega estos prompts a Claude **en orden** para arrancar:
 ### Prompt 1 — Onboarding
 
 ```
-Soy [TU NOMBRE], voy a continuar el trabajo de Rubén Cotón con los proyectos
+Soy [TU NOMBRE], voy a continuar el trabajo de RUBEN COTON con los proyectos
 de ARTES BÚHO MANAGEMENT. Lee primero el archivo
 `00_DOCUMENTACION/00_LEEME_PRIMERO.md` y luego
 `00_DOCUMENTACION/01_INFORME_TECNICO_DENSO.md`.
@@ -79,7 +79,7 @@ recomendado para generar todas las credenciales sin romper dependencias.
 
 ```
 Lee `00_DOCUMENTACION/04_DEPLOYS_ACTIVOS.md`. Necesito migrar los 3
-deploys activos del VPS de Rubén Cotón a un VPS propio de ARTES BÚHO
+deploys activos del VPS de RUBEN COTON a un VPS propio de ARTES BÚHO
 antes del 5 de junio de 2026. Hazme un plan paso a paso.
 ```
 
@@ -136,7 +136,7 @@ ARTES-BUHO-MANAGEMENT/
 
 Para dudas durante la transición:
 
-- **Rubén Cotón:** manager@rubencoton.com / +34 613 00 93 36
+- **RUBEN COTON:** manager@rubencoton.com / +34 613 00 93 36
 
 ---
 

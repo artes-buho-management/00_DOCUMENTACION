@@ -1,6 +1,6 @@
 # 🚀 DEPLOYS ACTIVOS — Migración urgente
 
-> ⏰ **DEADLINE: 5 de junio de 2026.** Después, el VPS de Rubén Cotón se apagará y estos 3 servicios se caerán.
+> ⏰ **DEADLINE: 5 de junio de 2026.** Después, el VPS de RUBEN COTON se apagará y estos 3 servicios se caerán.
 
 ---
 
@@ -12,7 +12,7 @@
 | `APP_ARTES-BUHO_BELLA-BESTIA` | `bella-bestia.artesbuhomanagement.com` | React 19 + Node | ALTA |
 | `ARTES-BUHO_RAMON` | Bot Telegram (sin URL pública) | Python FastAPI | ALTA |
 
-VPS actual: **Hostinger** + **Coolify** (cuenta de Rubén Cotón, no transferible).
+VPS actual: **Hostinger** + **Coolify** (cuenta de RUBEN COTON, no transferible).
 
 ---
 
@@ -93,7 +93,7 @@ Para cada app:
 
 ## ⚠️ COSAS A NO OLVIDAR
 
-1. **Bot Telegram de RAMON:** El bot actual es propiedad de Rubén Cotón. Hay que crear uno nuevo con `@BotFather`. Los usuarios actuales **tendrán que cambiar de bot manualmente** (no es transparente).
+1. **Bot Telegram de RAMON:** El bot actual es propiedad de RUBEN COTON. Hay que crear uno nuevo con `@BotFather`. Los usuarios actuales **tendrán que cambiar de bot manualmente** (no es transparente).
 
 2. **PostgreSQL de RAMON:** Si quieres conservar el histórico de emails clasificados / preferencias del bot, hay que migrar la DB:
    ```bash
@@ -102,7 +102,7 @@ Para cada app:
    # En el VPS nuevo
    psql ramon_db < ramon_backup.sql
    ```
-   Pedir el dump a Rubén Cotón antes del deadline.
+   Pedir el dump a RUBEN COTON antes del deadline.
 
 3. **Cookies / sesiones activas:** Si APP_ARTES-BUHO emite cookies de dominio `.artesbuhomanagement.com`, esas cookies seguirán funcionando si el dominio es el mismo. Si cambias dominio, los usuarios tendrán que loguearse de nuevo.
 
@@ -132,5 +132,5 @@ Para cada app:
 
 Si algo no arranca durante la migración:
 
-- **Rubén Cotón:** manager@rubencoton.com / +34 613 00 93 36
+- **RUBEN COTON:** manager@rubencoton.com / +34 613 00 93 36
 - Horario de respuesta: días laborables 10:00-19:00

@@ -1,7 +1,7 @@
 # 📦 ENTREGA TÉCNICA — ARTES BÚHO MANAGEMENT
 
 > **Para:** El equipo técnico que continúa el trabajo (David / sucesor).
-> **De:** Rubén Cotón (desarrollador original).
+> **De:** RUBEN COTON (desarrollador original).
 > **Fecha:** 21 de mayo de 2026.
 > **Carpeta:** `C:\Users\elrub\Desktop\ARTES-BUHO-MANAGEMENT\`
 > **GitHub org:** `artes-buho-management` (repos públicos, link compartible).
@@ -38,7 +38,7 @@ Para hacer la entrega más ligera, no se incluyen dependencias instaladas. En ca
 - Python: `pip install -r requirements.txt` (o `pip install -r pyproject.toml`)
 - Apps Script: `clasp pull` desde el script ID del README
 
-### 4. Hay 3 apps en producción ahora mismo en VPS de Rubén Cotón
+### 4. Hay 3 apps en producción ahora mismo en VPS de RUBEN COTON
 
 | App | URL |
 |---|---|
@@ -98,7 +98,7 @@ La organización completa: **https://github.com/artes-buho-management**
 
 Para dudas técnicas durante el periodo de transición:
 
-- **Rubén Cotón:** manager@rubencoton.com / WhatsApp +34 613 00 93 36
+- **RUBEN COTON:** manager@rubencoton.com / WhatsApp +34 613 00 93 36
 
 ---
 

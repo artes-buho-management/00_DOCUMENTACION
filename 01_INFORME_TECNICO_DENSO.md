@@ -154,7 +154,7 @@ Cliente principal de ARTES BÚHO. Toda la línea contable + el dashboard BI est�
 
 📍 `repos/04_bots_y_asistentes/ARTES-BUHO_RAMON/`
 
-**Asistente ejecutivo autónomo para ARTES BÚHO.** Gemelo del bot Rocío (que es de Rubén Cotón personal — NO incluido en esta entrega).
+**Asistente ejecutivo autónomo para ARTES BÚHO.** Gemelo del bot Rocío (que es de RUBEN COTON personal — NO incluido en esta entrega).
 
 - **Stack:** Python (FastAPI + APScheduler)
 - **Deploy:** **EN PRODUCCIÓN** → Coolify VPS (bot Telegram activo)
@@ -513,7 +513,7 @@ clasp push
 
 ## 9. Despliegues activos
 
-3 apps están **en producción ahora mismo** en VPS Hostinger gestionado por Coolify (cuenta de Rubén Cotón):
+3 apps están **en producción ahora mismo** en VPS Hostinger gestionado por Coolify (cuenta de RUBEN COTON):
 
 | App | URL | Acción ARTES BÚHO |
 |---|---|---|
@@ -521,7 +521,7 @@ clasp push
 | `APP_ARTES-BUHO_BELLA-BESTIA` | `bella-bestia.artesbuhomanagement.com` | Migrar a VPS propio |
 | `ARTES-BUHO_RAMON` | Bot Telegram activo | Migrar a VPS propio + nuevo bot Telegram |
 
-**ANTES DEL 5 DE JUNIO DE 2026:** ARTES BÚHO debe migrar estos 3 deploys o se caerán cuando Rubén Cotón apague su VPS.
+**ANTES DEL 5 DE JUNIO DE 2026:** ARTES BÚHO debe migrar estos 3 deploys o se caerán cuando RUBEN COTON apague su VPS.
 
 Ver detalles en `04_DEPLOYS_ACTIVOS.md`.
 
